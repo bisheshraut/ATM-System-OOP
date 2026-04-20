@@ -49,7 +49,7 @@ int main() {
     int userChoice, pin, choice;
     float amount;
 
-    cout << "===== ATM SYSTEM (OOP VERSION) =====\n";
+    cout << "===== ATM SYSTEM =====\n";
 
     cout << "Select User (1-3): ";
     cin >> userChoice;
